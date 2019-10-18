@@ -14,6 +14,5 @@ public class Main {
         valid.validator();
         //вызов демаршаллизации
         marshall.unMarshaller();
-
     }
 }
